@@ -131,15 +131,15 @@ Paste this into AGENTS.md:
 ## n8n workflow rules
 
 - Always use `n8n_docs` FIRST for:
-  - finding nodes
-  - building workflows
-  - validating structure
+  * finding nodes
+  * building workflows
+  * validating structure
 
 - ONLY use `n8n_live` for:
-  - creating workflows
-  - updating workflows
-  - reading workflows
-  - executing workflows
+  * creating workflows
+  * updating workflows
+  * reading workflows
+  * executing workflows
 
 - NEVER touch live workflows until:
   1. A full plan is shown
@@ -149,7 +149,7 @@ Paste this into AGENTS.md:
 
 - Prefer simple nodes over code nodes
 
-- If unsure, ask before acting
+- If unsure, stop and ask for clarification before taking any action.
 ```
 
 ## 7. Restart Codex
