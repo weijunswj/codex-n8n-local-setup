@@ -5,8 +5,10 @@ This repository is a small public reference for getting Codex working with a loc
 ## What This Repo Contains
 
 - [1. Local Setup](./1.%20local%20setup.md)
-- [2. Upgrading](./2.%20upgrading.md)
+- [2. Tunneling Guide](./2.%20tunneling%20guide.md)
 
 ## Recommended Starting Point
 
-Start with the local setup guide first, then use the upgrading guide when you want to check for updates.
+Start with the local setup guide first.
+
+Only move to the tunneling guide when something outside your PC needs to call your local `n8n`, such as a webhook or callback.
